@@ -21,7 +21,7 @@
 ### Steps to Install
 
 1. **Download the Installer**:
-   - Download the ClickOnce installer from the provided link: [VBDemos Installer](#)
+   - Download the ClickOnce installer from the provided link: [VBDemos Installer](3_Programs/installvbdemos.md)
 
 2. **Run the Installer**:
    - Open the downloaded file and follow the on-screen instructions to complete the installation.
@@ -45,7 +45,7 @@
 ### Technologies Used
 
 - **Programming Language**: VB.Net
-- **IDE**: Visual Studio
+- **IDE**: [Installing Visual Studio](1_Syllabus/setup.md)
 - **Deployment**: Microsoft ClickOnce
 - **Database**: SQL Server
 
